@@ -137,18 +137,18 @@ MSA – Microservice Architecture
 **Стэк:**
 
 - API:
-    - C# \$$ T T
-    - Java \$$ T T
+    - C# \$$ TT
+    - Java \$$ TT
 - БД:
     - PostgreSQL $ T
-    - MySQL \$$ T T
+    - MySQL \$$ TT
 
 **Разработка:**
 
 - Переучивать команду
     - C# $ T
-    - Java \$\$$ T T T
-- Аутсорс \$$ T T
+    - Java \$\$$ TTT
+- Аутсорс \$$ TT
 - Фриланс $ T
 
 **Альтернативы**
