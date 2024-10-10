@@ -1,9 +1,5 @@
 ---
 Статус: На рассмотрении
-Дата:
-  YYYY-MM-DD when the decision was last updated: 
-Ответственные:
-  list everyone involved in the decision:
 ---
 
 # Архитектурное решение для интеграции системы документооборота с операторами ЭДО
