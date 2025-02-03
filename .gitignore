@@ -4,3 +4,5 @@
 
 /.vs
 /*.vsdx
+*.drawio
+*.bkp
